@@ -18,3 +18,7 @@ db.sqlite3
 # Operating system
 .DS_Store
 Thumbs.db
+# Additional files
+*.log
+db.sqlite3-journal
+.env.*
